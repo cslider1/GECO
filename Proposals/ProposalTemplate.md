@@ -2,7 +2,7 @@
 _This is a guideline on how to best structure your proposal._
 
 ## Project Overview
-
+ABC
 ### Project name
 > Name of your project
 ### Team members 
